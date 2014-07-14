@@ -1,0 +1,6 @@
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN2_U1_EA_ROGH\DPRN2_U1_EA_ROGH\bin\Debug\DPRN2_U1_EA_ROGH.exe.config
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN2_U1_EA_ROGH\DPRN2_U1_EA_ROGH\obj\Debug\DPRN2_U1_EA_ROGH.csprojResolveAssemblyReference.cache
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN2_U1_EA_ROGH\DPRN2_U1_EA_ROGH\bin\Debug\DPRN2_U1_EA_ROGH.exe
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN2_U1_EA_ROGH\DPRN2_U1_EA_ROGH\bin\Debug\DPRN2_U1_EA_ROGH.pdb
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN2_U1_EA_ROGH\DPRN2_U1_EA_ROGH\obj\Debug\DPRN2_U1_EA_ROGH.exe
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN2_U1_EA_ROGH\DPRN2_U1_EA_ROGH\obj\Debug\DPRN2_U1_EA_ROGH.pdb
